@@ -22,7 +22,7 @@ const Drivers = () => {
       <Sidebar />
 
       {/* Main Content */}
-      <div className="flex-1 ml-64 bg-gray-100 min-h-screen">
+      <div className="flex-1 bg-gray-100 min-h-screen">
         {/* Navbar */}
         <Navbar />
 

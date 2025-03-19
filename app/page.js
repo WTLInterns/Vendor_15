@@ -52,7 +52,7 @@ export default function Home() {
       <Sidebar />
 
       {/* Main Content */}
-      <div className="flex-grow ml-[256px] md:ml-[64px] transition-all duration-[0.5s]">
+      <div className="flex-grow md:ml-[64px] transition-all duration-[0.5s]">
         {/* Navbar */}
         <Navbar />
 
